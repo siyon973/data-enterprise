@@ -1,6 +1,6 @@
 # Academic Project
 
-This repository contains a Jupyter Notebook created for [Course Name] at [University Name]. 
+This repository contains a Jupyter Notebook created for data analytics at BSBI. 
 It is intended solely for grading purposes and is not open for public use or distribution.
 
 ## Usage
